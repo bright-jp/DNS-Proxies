@@ -1,69 +1,69 @@
-# Bright Data's DNS Proxies
+# Bright DataのDNSプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/solutions/dns-proxies) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/dns-proxies) 
 
-## Overview
-Experience seamless scraping with Bright Data's [DNS proxies](https://brightdata.com/solutions/dns-proxies), designed to provide precise targeting, unmatched stability, and rapid response times.
+## 概要
+精密なターゲティング、比類ない安定性、高速なレスポンス時間を提供するように設計されたBright Dataの[DNSプロキシ](https://brightdata.jp/solutions/dns-proxies)で、シームレスなスクレイピングを体験できます。
 
-- **100M+ Proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Geo-location targeting (Free)**
+- **1億+のプロキシIP**
+- **スティッキーおよびローテーティングセッション**
+- **99.95%の成功率**
+- **HTTP(S) & SOCKS5サポート**
+- **ジオロケーションターゲティング（無料）**
 
-## Key Features
-- **Global Coverage**: DNS proxies available in [195 countries](https://brightdata.com/locations).
-- **Poular proxy IP locations**
-   - [**United States proxy**](https://brightdata.com/locations/united-states)
-   - [**China proxy**](https://brightdata.com/locations/cn)
-   - [**UK proxy**](https://brightdata.com/locations/gb)
-   - [**Germany proxy**](https://brightdata.com/locations/de)
-   - [**Canada proxy**](https://brightdata.com/locations/ca)
-   - [**India proxy**](https://brightdata.com/locations/in)
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な機能
+- **グローバルカバレッジ**: [195か国](https://brightdata.jp/locations)で利用可能なDNSプロキシです。
+- **人気のプロキシIPロケーション**
+   - [**米国プロキシ**](https://brightdata.jp/locations/united-states)
+   - [**中国プロキシ**](https://brightdata.jp/locations/cn)
+   - [**英国プロキシ**](https://brightdata.jp/locations/gb)
+   - [**ドイツプロキシ**](https://brightdata.jp/locations/de)
+   - [**カナダプロキシ**](https://brightdata.jp/locations/ca)
+   - [**インドプロキシ**](https://brightdata.jp/locations/in)
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を達成できます。
+- **高速レスポンス**: 平均レスポンス時間は約0.7秒です。
+- **倫理的な調達**: すべてのプロキシは、ユーザーの明確な同意のもとで調達されています。
+- **無制限の同時セッション**: 制限なく運用をスケールできます。
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/DNS-proxies) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/DNS-proxies) 
 
-## Getting Started with DNS Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## DNSプロキシを始める
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPや構成を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例が用意されています。
 
-## Integrations
-Our DNS proxies integrate with popular tools and frameworks, including:
+## 連携
+DNSプロキシは、以下を含む一般的なツールやフレームワークと連携できます。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**すべてのプロキシ連携**](https://brightdata.jp/integration)
 
-## Use Cases
-Explore how businesses leverage DNS proxies:
+## ユースケース
+企業がDNSプロキシをどのように活用しているかをご覧ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドを監視します。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域ごとの価格を比較します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): 安全にトレンドを分析します。
 
 ## FAQ
 
-### What are the benefits of DNS Proxies?
-The benefits of using DNS proxies include a high level of privacy and security, faster speeds due to no sharing of bandwidth, and a lower risk of being blocked or blacklisted as the IP is not associated with any other user’s activities.
+### DNSプロキシを利用するメリットは何ですか？
+DNSプロキシを使用するメリットには、高いレベルのプライバシーとセキュリティ、帯域幅を共有しないことによる高速性、そしてIPアドレスが他ユーザーの活動と関連付けられていないためブロックやブラックリスト登録のリスクが低いことが含まれます。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### どのようなプランが利用できますか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **Pay-As-You-Go**: 1GBあたりの固定料金です。
+- **サブスクリプションプラン**: 月額、年額、カスタムオプションです。
 
-### Are Bright Data's DNS Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright DataのDNSプロキシはコンプライアンスに準拠しており、安全に使用できますか？
+Bright Dataのプロキシは倫理的に調達されており、GDPRおよびCCPAを含む、関連するすべてのデータ保護法に準拠しています。
 
-### Is there dedicated support available?
-Our DNS support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our DNS proxy network.
+### 専任サポートは利用できますか？
+DNSサポートチームが24時間365日対応し、支援します。お問い合わせいただき、お客様のニーズについてご相談のうえ、DNSプロキシネットワークのメリットを最大限に活用してください。
