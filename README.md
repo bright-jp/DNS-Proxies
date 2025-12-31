@@ -1,6 +1,6 @@
 # Bright DataのDNSプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/dns-proxies) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/dns-proxies) 
 
 ## 概要
 精密なターゲティング、比類ない安定性、高速なレスポンス時間を提供するように設計されたBright Dataの[DNSプロキシ](https://brightdata.jp/solutions/dns-proxies)で、シームレスなスクレイピングを体験できます。
@@ -25,7 +25,7 @@
 - **倫理的な調達**: すべてのプロキシは、ユーザーの明確な同意のもとで調達されています。
 - **無制限の同時セッション**: 制限なく運用をスケールできます。
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/DNS-proxies) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/DNS-proxies) 
 
 ## DNSプロキシを始める
 1. **無料トライアルを開始**: クレジットカードは不要です。
